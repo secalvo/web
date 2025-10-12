@@ -4,7 +4,7 @@ body {
 		background-color: #CCC;
 		width= 35%;
 		padding: 5px;
-		margin-bottom: 5px;
+		margin-bottom: 6px;
 		height: 5em;
 		float: left;
 	}
@@ -20,4 +20,5 @@ p {
 	font-family: montserrat;
 	font-size: 20px;
 }
+
 
