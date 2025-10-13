@@ -10,16 +10,19 @@ body {
 	}
 	
 }
-
+h1 {
+	color: red;
+	text-aling: center
 h2 {
 	color: black;
-	text-aling: center;
+	text-aling: left;
 }
 
 p {
 	font-family: montserrat;
 	font-size: 20px;
 }
+
 
 
 
