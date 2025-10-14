@@ -12,12 +12,12 @@ body {
 }
 h1 {
 	color: red;
-	text-aling: center;
+	text-align: center;
 	font-style: italic;
 }
 h2 {
 	color: black;
-	text-aling: left;
+	text-align: left;
 	font-style: italic;
 	text-decoration: underline;
 }
@@ -26,6 +26,7 @@ p {
 	font-family: montserrat;
 	font-size: 20px;
 }
+
 
 
 
