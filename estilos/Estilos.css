@@ -24,14 +24,15 @@ h2 {
 h3 {
 	color: green;
 	text-align: left;
-	font-size: 18px;
+	font-size: 22px;
 	font-style: italic;
-	test-decoration: underline;
+	text-decoration: underline;
 }	
 p {
 	font-family: montserrat;
-	font-size: 20px;
+	font-size: 18px;
 }
+
 
 
 
