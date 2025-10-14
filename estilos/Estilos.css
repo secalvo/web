@@ -13,18 +13,19 @@ body {
 h1 {
 	color: red;
 	text-aling: center;
-	text-style: italic;
+	font-style: italic;
 }
 h2 {
 	color: black;
 	text-aling: left;
-	text-style: italic;
+	font-style: italic;
 }
 
 p {
 	font-family: montserrat;
 	font-size: 20px;
 }
+
 
 
 
