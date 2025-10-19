@@ -12,7 +12,6 @@ function pregunta(){
 		alert("Espero que encuentre pronto un destino");
 	}
 }
-<script>
 function confirmacion() {
 	var pregunta = confirm("¿Deseas visitar la página principal?")
 	if (pregunta){
@@ -23,7 +22,8 @@ function confirmacion() {
 		alert("De acuerdo, nos quedamos aquí")
 	}
 }
-</script>
+
+
 
 
 
