@@ -23,3 +23,5 @@ function valoracion(){
 else {
 alert("No has ingresado una puntuacion");
 }
+}
+
