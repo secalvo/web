@@ -11,17 +11,18 @@ function valoracion(){
 	if (puntuacion = 0){
 		alert("Esperemos mejorar para la proxima vez");
 	}
-	if (puntuacion = 1){
+	else if (puntuacion = 1){
 		alert("Esperemos ser de tua grado la proxima vez");
 	}
-	if (puntuacion = 2){
+	else if (puntuacion = 2){
 		alert("Agradecemos mucho tu opinion");
 	}
-	if puntuacion = 3{
+	else if puntuacion = 3{
 		alert("¡Excelente! Muchas gracias por tu opinion")
 	}
 else {
 alert("No has ingresado una puntuacion");
 }
 }
+
 
