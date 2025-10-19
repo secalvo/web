@@ -11,7 +11,11 @@ function pregunta(){
 	}else{
 		alert("Espero que encuentre pronto un destino");
 	}
-}	
+}
+function imprimir(){
+	<a href="javascript:window.print();">Imprimir</a>
+}
+
 
 
 
