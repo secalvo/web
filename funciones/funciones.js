@@ -24,7 +24,8 @@ function confirmacion() {
 	}
 }
 </script>
-<button type="button" onclick="confirmacion()" >Ir a la pagina principal</button>
+
+
 
 
 
