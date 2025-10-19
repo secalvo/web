@@ -4,3 +4,10 @@ function mostrarAlerta() {
 function saludo(){
 	alert("¡Bienvenidos a EXPOTRAVEL!");
 }
+function pregunta(){
+	var pais = prompt("¿A que pais te gustaria viajar?");
+	if (pais !==null){
+		alert("¡Gracias por responder!, excelente eleccion");
+	}	
+}	
+
