@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <!--en este apartado se añaden las propiedades del canal-->
+      <item>
+        <!--en este apartado se añade el contenido de la primera entrada-->
+      </item>
+      <item>
+        <!--en este apartado se añade el contenido de la segunda entrada-->
+      </item>
+  </channel>
+</rss>
