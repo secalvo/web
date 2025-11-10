@@ -2,11 +2,25 @@
 <rss version="2.0">
   <channel>
     <!--en este apartado se añaden las propiedades del canal-->
-      <item>
-        <!--en este apartado se añade el contenido de la primera entrada-->
-      </item>
-      <item>
-        <!--en este apartado se añade el contenido de la segunda entrada-->
-      </item>
+    <title>Ultimas novedades en nuestros viajes de la feria</title>
+    <link>https://secalvo.github.io/web/</link>
+    <description>Feria de viajes EXPOTRAVEL</description>
+    <language>es-es</language>
+    <managingEditor>secalvo@birt.eus (Sendoa Calvo)</managingEditor>
+    
+  <item>
+    <!--en este apartado se añade el contenido de la primera entrada-->
+    <title>Descuento por feria en tren</title>
+    <link>https://secalvo.github.io/web/tren.html</link>
+    <description>Descuento del 20% a aplicar en el Tren Transcantabrico</description>
+    <pubDate>Mon, 10 Nov 2025 12:00:00 +0000</pubDate>  
+  </item>
+  <item>
+    <!--en este apartado se añade el contenido de la segunda entrada-->
+    <title>Descuento por feria en Barco</title>
+    <link>https://secalvo.github.io/web/tren.html</link>
+    <description>Descuento del 20% a aplicar en cruceros en Europa</description>
+    <pubDate>Mon, 10 Nov 2025 13:00:00 +0000</pubDate> 
+  </item>
   </channel>
 </rss>
