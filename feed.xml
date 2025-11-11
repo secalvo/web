@@ -8,13 +8,13 @@
     <language>es-es</language>
     <managingEditor>secalvo@birt.eus (Sendoa Calvo)</managingEditor>
     
-    <!--<item>
+    <item>
     en este apartado se añade el contenido de la primera entrada
     <title>Descuento por feria en tren</title>
     <link>https://secalvo.github.io/web/tren.html</link>
     <description>Descuento del 20% a aplicar en el Tren Transcantabrico</description>
     <pubDate>Mon, 10 Nov 2025 12:00:00 +0000</pubDate>  
-  </item>-->
+  </item>
   <item>
     <!--en este apartado se añade el contenido de la segunda entrada-->
     <title>Descuento por feria en Barco</title>
