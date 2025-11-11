@@ -9,7 +9,7 @@
     <managingEditor>secalvo@birt.eus (Sendoa Calvo)</managingEditor>
     
     <item>
-    en este apartado se añade el contenido de la primera entrada
+    <!--en este apartado se añade el contenido de la primera entrada-->
     <title>Descuento por feria en tren</title>
     <link>https://secalvo.github.io/web/tren.html</link>
     <description>Descuento del 20% a aplicar en el Tren Transcantabrico</description>
